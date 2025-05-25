@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/host_mywebsite/static/css/main.7710c341.css",
-    "main.js": "/host_mywebsite/static/js/main.4c561bf0.js",
+    "main.css": "/host_mywebsite/static/css/main.db72cffc.css",
+    "main.js": "/host_mywebsite/static/js/main.74aeda4e.js",
     "static/js/977.a36c58fe.chunk.js": "/host_mywebsite/static/js/977.a36c58fe.chunk.js",
     "static/js/732.36ddf9df.chunk.js": "/host_mywebsite/static/js/732.36ddf9df.chunk.js",
     "static/js/453.f69bbbff.chunk.js": "/host_mywebsite/static/js/453.f69bbbff.chunk.js",
@@ -14,14 +14,14 @@
     "static/media/gprn_logo_big.png": "/host_mywebsite/static/media/gprn_logo_big.602fa1873064e3e5693b.png",
     "static/media/default.jpg": "/host_mywebsite/static/media/default.7b60afe83d420fcb5332.jpg",
     "index.html": "/host_mywebsite/index.html",
-    "main.7710c341.css.map": "/host_mywebsite/static/css/main.7710c341.css.map",
-    "main.4c561bf0.js.map": "/host_mywebsite/static/js/main.4c561bf0.js.map",
+    "main.db72cffc.css.map": "/host_mywebsite/static/css/main.db72cffc.css.map",
+    "main.74aeda4e.js.map": "/host_mywebsite/static/js/main.74aeda4e.js.map",
     "977.a36c58fe.chunk.js.map": "/host_mywebsite/static/js/977.a36c58fe.chunk.js.map",
     "732.36ddf9df.chunk.js.map": "/host_mywebsite/static/js/732.36ddf9df.chunk.js.map",
     "453.f69bbbff.chunk.js.map": "/host_mywebsite/static/js/453.f69bbbff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7710c341.css",
-    "static/js/main.4c561bf0.js"
+    "static/css/main.db72cffc.css",
+    "static/js/main.74aeda4e.js"
   ]
 }
